@@ -2,8 +2,8 @@
   <body>
     Hello guys,
     I am mahdi niknejad :)
-    <br><br><br><br>
-    My resume <br>
+    <br><br>
+    You can download my cv as below link : <br><br>
     <a href="https://github.com/mnn59/resume/raw/master/MyCV.pdf"> My CV </a>  
     <h1>
       Comming soon...
