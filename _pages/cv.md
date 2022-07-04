@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Last update: May 2019
+Last update: July 2022
 - English
   - Short CV [[pdf](/files/Mahdi-Niknejad-short-cv-en.pdf)]
 - Persian
