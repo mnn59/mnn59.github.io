@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Photos"
-    url: /gothenburgwithme/
+#   - title: "Photos"
+#     url: /gothenburgwithme/
 
   - title: "Others"
     url: /others/  
