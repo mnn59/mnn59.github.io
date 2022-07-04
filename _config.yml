@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : googlecf896fb13fbee04c.html
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : "Mahdi Niknejad"
   avatar           : "profile.png"
   bio              : "BSc Student in Computer&nbsp;Engineering<br><a href='https://ce.aut.ac.ir/en'><img src='/images/ce-aut.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
-  location         : Tehran, Iran
+  location         : "Tehran, Iran"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
