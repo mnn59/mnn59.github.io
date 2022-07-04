@@ -9,7 +9,7 @@ Last update: July 2022
 - English
   - Short CV [[pdf](/files/Mahdi-Niknejad-short-cv-en.pdf)]
 - Persian
-  - Short CV [[pdf](/file/mahdi-niknejad-short-cv-fa.pdf)]
+  - Short CV [[pdf](/files/mahdi-niknejad-short-cv-fa.pdf)]
 
 
 ### Transcripts (at Amirkabir University of Technology (Tehran Polytechnic))
