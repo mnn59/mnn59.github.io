@@ -22,18 +22,11 @@ This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering](https:/
 ----
 ### Amirkabir University Of Technology: 
 <ul class='twocol' markdown='1'>
-<li> Advanced Programming (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Operating Systems Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Computer Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
-<li> Discrete Mathematics</li>
-<li> Design of Programming Languages</li>
-<li> Data Structures</li>
-<li> Principles of Compiler Design</li>
-<li> Computer Networks II</li>
-<li> Information Storage and Retrieval</li>
-<li> Software Engineering I</li>
-<li> Computer Architecture</li>
+<li> Linear Algebra </li>
+<li> Algorithm Design </li>
 </ul>
+
+
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
