@@ -14,7 +14,7 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering](https://ce.aut.ac.ir/en) at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en) in Iran, started in September 2017.
+Hi 👋, This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering](https://ce.aut.ac.ir/en) at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en) in Iran, started in September 2017.
 
 
 
