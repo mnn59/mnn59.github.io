@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 ---
 
 Last update: May 2019
-- Short CV [[pdf](/files/Ahmadpanah-Short-CV.pdf)]
-- Long CV [[pdf](/files/Ahmadpanah-CV.pdf)]
+- English
+  - Short CV [[pdf](/files/Mahdi-Niknejad-short-cv-en.pdf)]
+- Persian
+  - Short CV [[pdf](/file/mahdi-niknejad-short-cv-fa.pdf)]
 
-### Transcripts (at Tehran Polytechnic)
-- PhD [[pdf](/files/Ph.D.Transcript-en.pdf)]
-- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
-- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
+
+### Transcripts (at Amirkabir University of Technology (Tehran Polytechnic))
+- BSc [[pdf](/files/bsc-transcript-en.pdf)]
