@@ -15,8 +15,11 @@ main:
   - title: "My CV"
     url: /cv/
   
-  - title: "Blog"
+  - title: "My Blog"
     url: /year-archive/
+  
+  - title: "My Projects"
+    url: /projects/
 
 #   - title: "Photos"
 #     url: /gothenburgwithme/
