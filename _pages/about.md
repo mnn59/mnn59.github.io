@@ -31,7 +31,7 @@ Hi 👋, This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
 - Admitted to the National Organization for Development of Exceptional Talents (NODET) for high school studies, 2012.
-- Accepted in the first stage of student Physics Olympiad, 2015.
+- Accepted in the first level of Iranian Physics Olympiad Exam, 2015.
 - Ranked 1st place among undergraduate students in Computer Engineering, 2018.
 - Scientific Talent by the National Elite Foundation of Iran, 2020.
 
