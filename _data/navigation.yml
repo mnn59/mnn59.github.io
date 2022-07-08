@@ -12,13 +12,13 @@ main:
 #   - title: "Booklets"
 #     url: /booklets/
 
-  - title: "My CV"
+  - title: "CV"
     url: /cv/
   
-  - title: "My Blog"
+  - title: "Blog"
     url: /year-archive/
   
-  - title: "My Projects"
+  - title: "Projects"
     url: /projects/
 
 #   - title: "Photos"
