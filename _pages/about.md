@@ -18,7 +18,7 @@ Hi 👋, This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering
 
 
 
-<a href="/teaching"  class='header-color'>Teaching</a>
+<a href="/teaching"  class='header-color'>Teaching Assistant</a>
 ----
 ### Amirkabir University Of Technology: 
 <ul class='twocol' markdown='1'>
