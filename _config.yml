@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mahdi Niknejad"
   avatar           : "profile.png"
-  bio              : "MSc Student in Computer&nbsp;Engineering<br><a href='https://en.kntu.ac.ir/'><img src='/images/kntu.png'></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  bio              : "MSc Student in Computer&nbsp;Engineering<br><a href='https://en.kntu.ac.ir/'><img src='/images/kntu.png' style="scale: 132%"></a>&nbsp;&nbsp;<a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
   location         : "Tehran, Iran"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
