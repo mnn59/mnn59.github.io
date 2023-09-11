@@ -22,7 +22,7 @@ Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the s
 ----
 ### Amirkabir University Of Technology: 
 <ul class='twocol' markdown='1'>
-<li> Linear Algebra </li>
+<li> Applied Linear Algebra </li>
 <li> Algorithm Design </li>
 </ul>
 
