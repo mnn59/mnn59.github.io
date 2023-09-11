@@ -14,7 +14,7 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-Hi 👋, This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering](https://ce.aut.ac.ir/en) at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en) in Iran, started in September 2017.
+Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the supervision of ? at [K. N. Toosi University Of Technology (KNTU)](https://en.kntu.ac.ir/) in Iran, started in September 2023. Prior to that, I was BSc student in Computer Engineering at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en).
 
 
 
@@ -28,12 +28,12 @@ Hi 👋, This is **Mahdi Niknejad**, a BSc student in [Computer&nbsp;Engineering
 
 
 
+
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-- Admitted to the National Organization for Development of Exceptional Talents (NODET) for high school studies, 2012.
-- Accepted in the first level of Iranian Physics Olympiad Exam, 2015.
-- Ranked 1st place among undergraduate students in Computer Engineering, 2018.
 - Scientific Talent by the National Elite Foundation of Iran, 2020.
+- Accepted in the first level of Iranian Physics Olympiad Exam, 2015.
+- Admitted to the National Organization for Development of Exceptional Talents (NODET) for high school studies, 2012.
 
 
 
