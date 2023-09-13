@@ -107,7 +107,7 @@ events from different security levels should be preserved.
 
 <div id="1">
 <li> <b>Medical Image Segmentation System</b>, <em>Bachelor's project</em>, 2023 [<a href="https://github.com/mnn59/BSc/blob/main/Mahdi-Niknejad-9630039-BSc-Proposal.pdf">pdf</a>] [<a href="https://github.com/mnn59/BSc">link</a>]
-<br>Supervisor: Mehran S. Fallah
+<br>Supervisor: Maryam A. Mazlaghani
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
 Rapid advances in the field of medical imaging are revolutionizing medicine. For example,

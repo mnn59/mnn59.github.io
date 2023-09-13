@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Last update: July 2022
+Last update: September 2023
 - English
   - Short CV [[pdf](/files/Mahdi-Niknejad-short-cv-en.pdf)]
 - Persian
@@ -13,4 +13,6 @@ Last update: July 2022
 
 
 ### Transcripts (at Amirkabir University of Technology (Tehran Polytechnic))
-- BSc [[pdf](/files/bsc-transcript-en.pdf)]
+- BSc 
+  - English [[pdf](/files/B.Sc.Transcript-en.pdf)]
+  - Persian [[pdf](/files/B.Sc.Transcript-fa.pdf)]
