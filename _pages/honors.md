@@ -8,7 +8,7 @@ author_profile: true
 
 <ul>
 
-<li><b>External Reviewer</b> of the conference flagships <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>.</li>
+<!-- <li><b>External Reviewer</b> of the conference flagships <a href="https://www.usenix.org/conference/usenixsecurity23">USENIX Security'23</a>, <a href="https://www.ieee-security.org/TC/CSF2022/">CSF'22</a>, <a href="http://www.ieee-security.org/TC/EuroSP2022/">EuroS&P'22</a>, <a href="https://www.ieee-security.org/TC/SP2021/">S&P'21</a>, <a href="https://www.ieee-security.org/TC/CSF2020/">CSF'20</a>, <a href="http://www.ieee-security.org/TC/EuroSP2020/">EuroS&P'20</a>, and <a href="https://www.sigsac.org/ccs/CCS2019/">CCS'19</a>.</li>
 
 <li><b>Session chair</b> on CTF and speaker at <a href="https://swits.hotell.kau.se/AnnualSeminars/SWITS_2022/SWITS2022_programme.htm">SWITS'22</a>.</li> 
 
@@ -89,6 +89,27 @@ among undergraduate students), Tehran Polytechnic, 2014.</li>
 <li> Achieved top <b>1.5%</b> place among all applicants of the Nationwide University Entrance Exam for B.Sc. in Foreign Languages - English (approximately 108000 applicants), Iran, 2011.</li>
 
 <li>Skipped <b>Three</b> grades of Elementary School as an <em>Exceptional Talent</em>,
-Iran, 2002.</li>
+Iran, 2002.</li> -->
+
+
+<li>
+Recognized as a <b>Scientific Talent</b> by the National Elites Foundation of Iran,
+2020.
+</li>
+<li>
+<b>Full Tuition Waiver Scholarship</b> from AUT and KNTU, Iran, 2017 & 2023.
+</li>
+<li>
+Achieved top <b>2%</b> place among all applicants of the Nationwide University En-
+trance Exam for B.Sc. in Math. and Engineering (approximately 149000 appli-
+cants), Iran, 2017.
+</li>
+<li>
+Accepted in the 1st level of <b>Iranian Physics Olympiad Exam</b>, Iran, 2015.
+</li>
+<li>
+Admitted to the <b>National Organization for Development of Exceptional
+Talents</b> (NODET) for High School studies, Iran, 2012.
+</li>
 
 </ul>

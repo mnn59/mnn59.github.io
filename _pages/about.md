@@ -31,9 +31,15 @@ Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the s
 
 <a href="/honors" class='header-color'>Honors and Activities</a>
 ----
-- Scientific Talent by the National Elite Foundation of Iran, 2020.
-- Accepted in the first level of Iranian Physics Olympiad Exam, 2015.
-- Admitted to the National Organization for Development of Exceptional Talents (NODET) for high school studies, 2012.
+- Recognized as a Scientific Talent by the National Elites Foundation of Iran,
+2020.
+- Full Tuition Waiver Scholarship from AUT and KNTU, Iran, 2017 & 2023.
+- Achieved top 2% place among all applicants of the Nationwide University En-
+trance Exam for B.Sc. in Math. and Engineering (approximately 149000 appli-
+cants), Iran, 2017.
+- Accepted in the 1st level of Iranian Physics Olympiad Exam, Iran, 2015.
+- Admitted to the National Organization for Development of Exceptional
+Talents (NODET) for High School studies, Iran, 2012.
 
 
 
