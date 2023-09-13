@@ -7,7 +7,7 @@ author_profile: true
 
 Last update: September 2023
 - English
-  - Short CV [[pdf](/files/Mahdi-Niknejad-short-cv-en.pdf)]
+  - Short CV [[pdf](/files/mahdi_niknejad_2023_09_11_short_cv.pdf)]
 - Persian
   - Short CV [[pdf](/files/mahdi-niknejad-short-cv-fa.pdf)]
 
