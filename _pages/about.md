@@ -20,11 +20,17 @@ Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the s
 
 <a href="/teaching"  class='header-color'>Teaching Assistant</a>
 ----
+### K. N. Toosi University Of Technology: 
+<ul class='twocol' markdown='1'>
+<li> Linear Algebra </li>
+</ul>
+
 ### Amirkabir University Of Technology: 
 <ul class='twocol' markdown='1'>
 <li> Applied Linear Algebra </li>
 <li> Algorithm Design </li>
 </ul>
+
 
 
 
