@@ -14,7 +14,7 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the supervision of ? at [K. N. Toosi University Of Technology (KNTU)](https://en.kntu.ac.ir/) in Iran, started in September 2023. Prior to that, I was BSc student in Computer Engineering at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en) under the supervision of [Maryam A. Mazlaghani](https://aut.ac.ir/cv/2296/MARYAM%20AMIR%20MAZLAGHANI).
+Hi 👋, This is Mahdi Niknejad, an MSc student in Computer Networks under the supervision of [Yousef Darmani](https://wp.kntu.ac.ir/darmani/) at [K. N. Toosi University Of Technology (KNTU)](https://en.kntu.ac.ir/) in Iran, started in September 2023. Prior to that, I was a BSc student in Computer Engineering at [Amirkabir University Of Technology (AUT)](https://aut.ac.ir/en) under the supervision of [Maryam A. Mazlaghani](https://aut.ac.ir/cv/2296/MARYAM%20AMIR%20MAZLAGHANI).
 
 
 
